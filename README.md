@@ -1,4 +1,4 @@
-# SmartDocQuery
+# ScholarMind
 
 ## Approach:
 
